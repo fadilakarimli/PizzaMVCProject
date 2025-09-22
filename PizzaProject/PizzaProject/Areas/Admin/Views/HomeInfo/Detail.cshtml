@@ -1,0 +1,29 @@
+﻿@model PizzaProject.ViewModels.Admin.HomeInfo.HomeInfoDetailVM
+
+@{
+    ViewData["Title"] = "Home Info Details";
+}
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+
+<h2>Home Info Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4>Title</h4>
+        <p>@Model.Title</p>
+
+        <h4>Description</h4>
+        <p>@Model.Description</p>
+
+        <h4>Image</h4>
+        @if (!string.IsNullOrEmpty(Model.Image))
+        {
+            <img src="~/images/@Model.Image" alt="@Model.Title" width="200" />
+        }
+    </div>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Back to List</a>
+</div>

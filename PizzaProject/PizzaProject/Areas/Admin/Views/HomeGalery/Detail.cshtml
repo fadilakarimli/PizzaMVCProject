@@ -1,0 +1,16 @@
+﻿@model PizzaProject.ViewModels.Admin.HomeGalery.HomeGaleryEditVM
+
+@{
+    ViewData["Title"] = "Gallery Detail";
+}
+
+<div class="container" style="margin-left:250px; margin-top:40px;">
+    <h2>Gallery Image Detail</h2>
+
+    <div class="card" style="width:300px;">
+        <img src="@Model.Image" class="card-img-top" style="object-fit:cover;" alt="Gallery Image" />
+        <div class="card-body">
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

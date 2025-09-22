@@ -1,55 +1,29 @@
-﻿<section class="home-slider owl-carousel img" style="background-image: url(images/bg_1.jpg);">
-	<div class="slider-item">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row slider-text align-items-center" data-scrollax-parent="true">
+﻿@model IEnumerable<PizzaProject.ViewModels.Admin.Slider.SliderVM>
 
-				<div class="col-md-6 col-sm-12 ftco-animate">
-					<span class="subheading">Delicious</span>
-					<h1 class="mb-4">Italian Cuizine</h1>
-					<p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-					<p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
-				</div>
-				<div class="col-md-6 ftco-animate">
-					<img src="~/images/bg_1.png" class="img-fluid" alt="">
-				</div>
+<section class="home-slider owl-carousel img">
+    @foreach (var item in Model)
+    {
+        <div class="slider-item" style="background-image: url(@Url.Content($"~/images/{item.Image}"));">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
-			</div>
-		</div>
-	</div>
+                    <div class="col-md-6 col-sm-12 @(item.IsButtonRight ? "order-md-last" : "") ftco-animate">
+                        <span class="subheading">@item.Subheading</span>
+                        <h1 class="mb-4">@item.Title</h1>
+                        <p class="mb-4 mb-md-5">@item.Description</p>
+                        <p>
+                            <a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a>
+                            <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a>
+                        </p>
+                    </div>
 
-	<div class="slider-item">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row slider-text align-items-center" data-scrollax-parent="true">
-
-				<div class="col-md-6 col-sm-12 order-md-last ftco-animate">
-					<span class="subheading">Crunchy</span>
-					<h1 class="mb-4">Italian Pizza</h1>
-					<p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-					<p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
-				</div>
-				<div class="col-md-6 ftco-animate">
-					<img src="~/images/bg_2.png" class="img-fluid" alt="">
-				</div>
-
-			</div>
-		</div>
-	</div>
-
-	<div class="slider-item" style="background-image: url(images/bg_3.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
-
-				<div class="col-md-7 col-sm-12 text-center ftco-animate">
-					<span class="subheading">Welcome</span>
-					<h1 class="mb-4">We cooked your desired Pizza Recipe</h1>
-					<p class="mb-4 mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-					<p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
-				</div>
-
-			</div>
-		</div>
-	</div>
+                    @* <div class="col-md-6 ftco-animate">
+                        <img src="~/image/sliders/@item.Image" class="img-fluid" alt="@item.Title">
+                    </div>
+ *@
+                </div>
+            </div>
+        </div>
+    }
 </section>

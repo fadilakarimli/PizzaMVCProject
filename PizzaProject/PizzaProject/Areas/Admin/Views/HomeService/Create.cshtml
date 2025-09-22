@@ -1,0 +1,35 @@
+﻿@model PizzaProject.ViewModels.Admin.HomeService.ServiceCreateVM
+
+@{
+    ViewData["Title"] = "Create Service";
+}
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+
+<h2>Create Service</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Icon">Icon</label>
+        <select asp-for="Icon" class="form-control" asp-items="@(new SelectList(ViewBag.Icons))" id="iconDropdown">
+            <option value="">--Select Icon--</option>
+        </select>
+        <div class="mt-2">
+            Preview: <span id="iconPreview"></span>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+</form>
+</div>

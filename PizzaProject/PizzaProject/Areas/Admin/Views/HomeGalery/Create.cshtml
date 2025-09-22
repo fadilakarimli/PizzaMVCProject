@@ -1,0 +1,20 @@
+﻿@model PizzaProject.ViewModels.Admin.HomeGalery.HomeGaleryCreateVM
+
+@{
+    ViewData["Title"] = "Add Gallery Image";
+}
+
+<div class="container" style="margin-left:250px; margin-top:40px;">
+    <h2>Add New Image</h2>
+
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group mb-3">
+            <label>Select Image</label>
+            <input asp-for="Image" type="file" class="form-control" />
+            <span asp-validation-for="Image" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

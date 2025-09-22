@@ -1,0 +1,21 @@
+﻿@model PizzaProject.ViewModels.Admin.HomeService.ServiceDetailVM
+
+@{
+    ViewData["Title"] = "Service Details";
+}
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+<h2>Service Details</h2>
+
+<div class="mb-3">
+    <strong>Icon:</strong> <span class="@Model.Icon"></span>
+</div>
+<div class="mb-3">
+    <strong>Title:</strong> @Model.Title
+</div>
+<div class="mb-3">
+    <strong>Description:</strong> @Model.Description
+</div>
+
+<a class="btn btn-secondary" asp-action="Index">Back to List</a>
+</div>

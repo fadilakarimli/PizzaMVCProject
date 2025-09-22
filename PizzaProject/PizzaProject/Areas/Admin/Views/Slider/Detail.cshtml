@@ -1,0 +1,22 @@
+﻿@model SliderDetailVM
+
+@{
+    ViewData["Title"] = "Slider Details";
+}
+
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+
+<h2>Slider Details</h2>
+
+<div class="card" style="width: 25rem;">
+    <img src="~/images/@Model.Image" class="card-img-top" alt="Slider Image" />
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@Model.Subheading</h6>
+        <p class="card-text">@Model.Description</p>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</div>
+</div>

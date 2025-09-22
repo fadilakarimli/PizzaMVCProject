@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PizzaProject.Data;
 using PizzaProject.Models;
+using PizzaProject.Services.Interfaces;
+using PizzaProject;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +19,8 @@ options.UseSqlServer(conString));
 
 builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>()
                                                      .AddDefaultTokenProviders();
+
+builder.Services.AddServiceLayer();
 
 var app = builder.Build();
 
