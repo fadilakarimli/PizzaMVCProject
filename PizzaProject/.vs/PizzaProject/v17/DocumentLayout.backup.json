@@ -3,132 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\views\\shared\\components\\homegalery\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\views\\shared\\components\\homegalery\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\views\\shared\\components\\aboutchef\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\views\\shared\\components\\aboutchef\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homegalery\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homegalery\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewcomponents\\aboutchefviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewcomponents\\aboutchefviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewcomponents\\homegaleryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewcomponents\\homegaleryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\chef\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\chef\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\homegaleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\homegaleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\chefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\chefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\interfaces\\ichefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\interfaces\\ichefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\chef\\chefeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\chef\\chefeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\chef\\chefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\chef\\chefvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\chef\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\chef\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homeinfo\\homeinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homeinfo\\homeinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homeinfo\\homeinfodetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homeinfo\\homeinfodetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\chef\\chefcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\chef\\chefcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\controllers\\homegalerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\controllers\\homegalerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homegalery\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homegalery\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homegalery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homegalery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homegalery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homegalery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\interfaces\\ihomegaleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\interfaces\\ihomegaleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homegalery\\homegaleryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homegalery\\homegaleryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homegalery\\homegalerycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homegalery\\homegalerycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homegalery\\homegaleryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homegalery\\homegaleryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\models\\homegalery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\models\\homegalery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homeservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homeservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\views\\shared\\components\\homeservice\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\views\\shared\\components\\homeservice\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewcomponents\\homeserviceviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewcomponents\\homeserviceviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homeservice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homeservice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homeservice\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homeservice\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homeservice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homeservice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\views\\homeinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\views\\homeinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\controllers\\homeservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\controllers\\homeservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\areas\\admin\\controllers\\homeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\areas\\admin\\controllers\\homeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\helpers\\icon\\iconlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\helpers\\icon\\iconlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\servicehomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\servicehomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\interfaces\\iservicehomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\interfaces\\iservicehomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homeservice\\servicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homeservice\\servicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homeservice\\servicedetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homeservice\\servicedetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homeservice\\serviceeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homeservice\\serviceeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\viewmodels\\admin\\homeservice\\servicecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\viewmodels\\admin\\homeservice\\servicecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|c:\\users\\asus\\desktop\\pizzamvc\\pizzaproject\\pizzaproject\\services\\homegaleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C123F-8941-486D-ACEA-20A90C5AC62E}|PizzaProject\\PizzaProject.csproj|solutionrelative:pizzaproject\\services\\homegaleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,128 +90,245 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeGaleryViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewComponents\\HomeGaleryViewComponent.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewComponents\\HomeGaleryViewComponent.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewComponents\\HomeGaleryViewComponent.cs",
-              "RelativeToolTip": "PizzaProject\\ViewComponents\\HomeGaleryViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:51:25.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Detail.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Detail.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T13:45:43.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T11:48:23.352Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Views\\Shared\\Components\\HomeGalery\\Default.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Views\\Shared\\Components\\HomeGalery\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Views\\Shared\\Components\\HomeGalery\\Default.cshtml",
-              "RelativeToolTip": "PizzaProject\\Views\\Shared\\Components\\HomeGalery\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Views\\Shared\\Components\\AboutChef\\Default.cshtml",
+              "RelativeDocumentMoniker": "PizzaProject\\Views\\Shared\\Components\\AboutChef\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Views\\Shared\\Components\\AboutChef\\Default.cshtml",
+              "RelativeToolTip": "PizzaProject\\Views\\Shared\\Components\\AboutChef\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T13:27:57.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeGaleryController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowDYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:42:19.822Z",
+              "WhenOpened": "2025-09-23T11:22:49.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeGaleryService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\HomeGaleryService.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Services\\HomeGaleryService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\HomeGaleryService.cs",
-              "RelativeToolTip": "PizzaProject\\Services\\HomeGaleryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAnAAAAAAAAAA==",
+              "Title": "ChefController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:37:59.567Z",
+              "WhenOpened": "2025-09-23T10:00:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Edit.cshtml",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:59:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutChefViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewComponents\\AboutChefViewComponent.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\ViewComponents\\AboutChefViewComponent.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewComponents\\AboutChefViewComponent.cs",
+              "RelativeToolTip": "PizzaProject\\ViewComponents\\AboutChefViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:59:58.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChefService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\ChefService.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\Services\\ChefService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\ChefService.cs",
+              "RelativeToolTip": "PizzaProject\\Services\\ChefService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:47:25.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Edit.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T13:44:36.756Z",
+              "WhenOpened": "2025-09-23T10:58:45.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChefService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\Interfaces\\IChefService.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\Services\\Interfaces\\IChefService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\Interfaces\\IChefService.cs",
+              "RelativeToolTip": "PizzaProject\\Services\\Interfaces\\IChefService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:47:00.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Create.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Create.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T13:44:20.261Z",
+              "Title": "ChefEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\Chef\\ChefEditVM.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\Chef\\ChefEditVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\Chef\\ChefEditVM.cs",
+              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\Chef\\ChefEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:54:53.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Index.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Index.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeGalery\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "ChefVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\Chef\\ChefVM.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\Chef\\ChefVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\Chef\\ChefVM.cs",
+              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\Chef\\ChefVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:48:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Detail.cshtml",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Detail.cshtml",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T13:43:50.419Z",
+              "WhenOpened": "2025-09-23T10:59:58.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "HomeInfoVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoVM.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoVM.cs",
+              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:08:36.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeInfoDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoDetailVM.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoDetailVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoDetailVM.cs",
+              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeInfo\\HomeInfoDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:08:33.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T10:59:13.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:00:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeGaleryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
+              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Controllers\\HomeGaleryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:01:29.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChefCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\Chef\\ChefCreateVM.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\Chef\\ChefCreateVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\Chef\\ChefCreateVM.cs",
+              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\Chef\\ChefCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:48:26.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\DependencyInjection.cs",
+              "RelativeToolTip": "PizzaProject\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:58:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Models\\Chef.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\Models\\Chef.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Models\\Chef.cs",
+              "RelativeToolTip": "PizzaProject\\Models\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:51:57.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IHomeGaleryService.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\Interfaces\\IHomeGaleryService.cs",
               "RelativeDocumentMoniker": "PizzaProject\\Services\\Interfaces\\IHomeGaleryService.cs",
@@ -267,293 +336,20 @@
               "RelativeToolTip": "PizzaProject\\Services\\Interfaces\\IHomeGaleryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:37:40.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeGaleryEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryEditVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryEditVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryEditVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:36:53.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\DependencyInjection.cs",
-              "RelativeToolTip": "PizzaProject\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:22:40.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeGaleryCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryCreateVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryCreateVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryCreateVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:36:30.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeGaleryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeGalery\\HomeGaleryVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:36:15.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeGalery.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Models\\HomeGalery.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Models\\HomeGalery.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Models\\HomeGalery.cs",
-              "RelativeToolTip": "PizzaProject\\Models\\HomeGalery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T13:32:50.074Z",
+              "WhenOpened": "2025-09-23T09:50:24.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Detail.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Detail.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T11:37:32.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Index.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Index.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T11:36:08.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Create.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Create.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T11:36:30.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Views\\Shared\\Components\\HomeService\\Default.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Views\\Shared\\Components\\HomeService\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Views\\Shared\\Components\\HomeService\\Default.cshtml",
-              "RelativeToolTip": "PizzaProject\\Views\\Shared\\Components\\HomeService\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T08:33:24.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeServiceViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewComponents\\HomeServiceViewComponent.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewComponents\\HomeServiceViewComponent.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewComponents\\HomeServiceViewComponent.cs",
-              "RelativeToolTip": "PizzaProject\\ViewComponents\\HomeServiceViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "HomeGaleryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\HomeGaleryService.cs",
+              "RelativeDocumentMoniker": "PizzaProject\\Services\\HomeGaleryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\HomeGaleryService.cs",
+              "RelativeToolTip": "PizzaProject\\Services\\HomeGaleryService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:33:19.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeService\\Edit.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeService\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T11:36:48.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeInfo\\Index.cshtml",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Views\\HomeInfo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Views\\HomeInfo\\Index.cshtml",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Views\\HomeInfo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T11:32:05.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeServiceController.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Controllers\\HomeServiceController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeServiceController.cs",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Controllers\\HomeServiceController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:23:46.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Program.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Program.cs",
-              "RelativeToolTip": "PizzaProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:32:17.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeInfoController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeInfoController.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Areas\\Admin\\Controllers\\HomeInfoController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Areas\\Admin\\Controllers\\HomeInfoController.cs",
-              "RelativeToolTip": "PizzaProject\\Areas\\Admin\\Controllers\\HomeInfoController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:24:21.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IconList.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Helpers\\Icon\\IconList.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Helpers\\Icon\\IconList.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Helpers\\Icon\\IconList.cs",
-              "RelativeToolTip": "PizzaProject\\Helpers\\Icon\\IconList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:26:29.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ServiceDetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceDetailVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceDetailVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceDetailVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceDetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:14:34.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ServiceHomeService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\ServiceHomeService.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Services\\ServiceHomeService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\ServiceHomeService.cs",
-              "RelativeToolTip": "PizzaProject\\Services\\ServiceHomeService.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:40:27.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ServiceVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:41:01.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IServiceHomeService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\Interfaces\\IServiceHomeService.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\Services\\Interfaces\\IServiceHomeService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\Services\\Interfaces\\IServiceHomeService.cs",
-              "RelativeToolTip": "PizzaProject\\Services\\Interfaces\\IServiceHomeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T08:40:04.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ServiceEditVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceEditVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceEditVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceEditVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:14:21.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ServiceCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceCreateVM.cs",
-              "RelativeDocumentMoniker": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceCreateVM.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceCreateVM.cs",
-              "RelativeToolTip": "PizzaProject\\ViewModels\\Admin\\HomeService\\ServiceCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:12:18.011Z",
+              "WhenOpened": "2025-09-23T09:50:09.663Z",
               "EditorCaption": ""
             }
           ]

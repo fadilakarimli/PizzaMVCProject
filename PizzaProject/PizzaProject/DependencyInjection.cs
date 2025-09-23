@@ -13,6 +13,7 @@ namespace PizzaProject
             services.AddScoped<IHomeInfoService, HomeInfoService>();
             services.AddScoped<IServiceHomeService, ServiceHomeService>();
             services.AddScoped<IHomeGaleryService, HomeGaleryService>();
+            services.AddScoped<IChefService, ChefService>();
 
             return services;
 

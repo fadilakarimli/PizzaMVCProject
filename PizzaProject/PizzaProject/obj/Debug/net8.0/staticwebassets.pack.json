@@ -637,8 +637,16 @@
       "PackagePath": "staticwebassets\\images\\4e3220b3-cd15-4e9c-9f8b-1692d4f723c3.jpg"
     },
     {
+      "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\9bb2a98e-3b03-47cb-8d27-f97b60a5cc9f.jpg",
+      "PackagePath": "staticwebassets\\images\\9bb2a98e-3b03-47cb-8d27-f97b60a5cc9f.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\about.jpg",
       "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\aebd8060-e1d7-48dd-b738-c601ebde3cf4.jpg",
+      "PackagePath": "staticwebassets\\images\\aebd8060-e1d7-48dd-b738-c601ebde3cf4.jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\bg_1.jpg",
@@ -685,6 +693,10 @@
       "PackagePath": "staticwebassets\\images\\da785c05-e954-4e0c-8725-4db08c1a7e81.jpg"
     },
     {
+      "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\daf93d89-e6e6-4d2a-82af-6a9ebe5a31b1.jpg",
+      "PackagePath": "staticwebassets\\images\\daf93d89-e6e6-4d2a-82af-6a9ebe5a31b1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\drink-1.jpg",
       "PackagePath": "staticwebassets\\images\\drink-1.jpg"
     },
@@ -719,6 +731,18 @@
     {
       "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\drink-9.jpg",
       "PackagePath": "staticwebassets\\images\\drink-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\e2eef846-af3c-4fa5-bd5f-9d485b095a42.jpg",
+      "PackagePath": "staticwebassets\\images\\e2eef846-af3c-4fa5-bd5f-9d485b095a42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\fba3cc72-10e9-4889-b7f8-fc909ddc59e8.jpg",
+      "PackagePath": "staticwebassets\\images\\fba3cc72-10e9-4889-b7f8-fc909ddc59e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\fccaf954-f184-4b66-affa-190e2c4c1928.jpg",
+      "PackagePath": "staticwebassets\\images\\fccaf954-f184-4b66-affa-190e2c4c1928.jpg"
     },
     {
       "Id": "C:\\Users\\Asus\\Desktop\\PizzaMVC\\PizzaProject\\PizzaProject\\wwwroot\\images\\food.png",

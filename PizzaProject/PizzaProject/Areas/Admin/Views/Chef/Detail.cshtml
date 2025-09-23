@@ -1,0 +1,11 @@
+﻿@model PizzaProject.ViewModels.Admin.Chef.ChefVM
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+    <h2>Chef Detail</h2>
+    <img src="@Model.ImageUrl" width="200" />
+    <p><strong>Full Name:</strong> @Model.FullName</p>
+    <p><strong>Position:</strong> @Model.Position</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
