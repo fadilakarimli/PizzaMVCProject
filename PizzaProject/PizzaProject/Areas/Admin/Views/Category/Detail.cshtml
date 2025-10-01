@@ -1,0 +1,37 @@
+﻿@model PizzaProject.ViewModels.Admin.Category.CategoryDetailVM
+
+@{
+    ViewData["Title"] = "Category Detail";
+}
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+<div class="container mt-4">
+    <h2>Category Detail</h2>
+
+    <dl class="row">
+
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.Name</dd>
+
+        <dt class="col-sm-2">Products</dt>
+        <dd class="col-sm-10">
+            @if (Model.ProductNames != null && Model.ProductNames.Any())
+            {
+                <ul>
+                    @foreach (var product in Model.ProductNames)
+                    {
+                        <li>@product</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span>No products in this category.</span>
+            }
+        </dd>
+    </dl>
+
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</div>
+</div>

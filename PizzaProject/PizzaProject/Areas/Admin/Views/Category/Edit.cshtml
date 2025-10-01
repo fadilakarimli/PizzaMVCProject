@@ -1,0 +1,26 @@
+﻿@model PizzaProject.ViewModels.Admin.Category.CategoryEditVM
+
+@{
+    ViewData["Title"] = "Edit Category";
+}
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+
+<div class="container mt-4">
+    <h2>Edit Category</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-warning mt-2">Update</button>
+        <a asp-action="Index" class="btn btn-secondary mt-2">Back</a>
+    </form>
+</div>
+</div>

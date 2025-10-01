@@ -1,0 +1,54 @@
+﻿@model PizzaProject.ViewModels.Admin.Product.ProductEditVM
+
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+
+<h2>Edit Product</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Description</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Price</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Category</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(ViewBag.Categories, "Id", "Name"))">
+            <option value="">-- Select Category --</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Current Image</label><br />
+        <img src="@Model.ImageUrl" width="100" />
+    </div>
+
+    <div class="form-group">
+        <label>New Image</label>
+        <input asp-for="NewImage" type="file" class="form-control" />
+        <span asp-validation-for="NewImage" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Update</button>
+</form>
+</div>

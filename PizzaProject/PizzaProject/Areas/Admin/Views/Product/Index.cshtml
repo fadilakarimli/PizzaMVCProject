@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PizzaProject.ViewModels.Admin.Product.ProductVM>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+<h2>Products</h2>
+<a class="btn btn-success mb-3" asp-action="Create">Add New Product</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@product.ImageUrl" width="80" />
+                </td>
+                <td>@product.Name</td>
+                <td>@product.CategoryName</td>
+                <td>$@product.Price</td>
+                <td>
+                    <a class="btn btn-info btn-sm" asp-action="Detail" asp-route-id="@product.Id">Detail</a>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

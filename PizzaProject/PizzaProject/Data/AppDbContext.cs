@@ -12,6 +12,9 @@ namespace PizzaProject.Data
         public DbSet<HomeService> HomeServices { get; set; }
         public DbSet<HomeGalery> HomeGaleries { get; set; }
         public DbSet<Chef> Chefs { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+
 
     }
 }

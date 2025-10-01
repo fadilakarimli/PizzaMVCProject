@@ -1,0 +1,22 @@
+﻿@model PizzaProject.ViewModels.Admin.Product.ProductDetailVM
+
+@{
+    ViewData["Title"] = "Product Detail";
+}
+<div class="container" style="margin-left:300px; margin-top:50px;">
+
+<h2>Product Detail</h2>
+
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" src="@Model.ImageUrl" alt="@Model.Name" />
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p><strong>Category:</strong> @Model.CategoryName</p>
+        <p><strong>Price:</strong> $@Model.Price</p>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</div>
+
+</div>

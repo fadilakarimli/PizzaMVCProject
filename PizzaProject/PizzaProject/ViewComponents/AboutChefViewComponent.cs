@@ -16,7 +16,7 @@ namespace PizzaProject.ViewComponents
         public async Task<IViewComponentResult> InvokeAsync()
         {
             var chefs = await _chefService.GetAllAsync();
-            return View(chefs); // ViewComponent view-inə göndərilir
+            return View(chefs); 
         }
     }
 }
